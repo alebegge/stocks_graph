@@ -1,0 +1,11 @@
+.nav {
+    background-color: black;
+    height: inherit, 48px;
+    width: 100%
+}
+
+.logo {
+    position: relative;
+    left: 25%;
+    padding-top: 10px;
+}
